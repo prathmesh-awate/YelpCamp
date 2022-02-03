@@ -1,0 +1,1 @@
+alert('HEllo from public directory');
